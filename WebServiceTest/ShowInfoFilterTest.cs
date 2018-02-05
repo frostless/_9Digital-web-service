@@ -80,7 +80,7 @@ namespace WebServiceTest
         }
 
         [TestMethod]
-        public void ShowInfoShouldReturnNullWhenEpisodeCountZeroandDrmFalseTest()
+        public void ShowInfoShouldReturnNullWhenEpisodeCountZeroAndDrmFalseTest()
         {
             //arrange
             ShowInfo showInfo = new ShowInfo
