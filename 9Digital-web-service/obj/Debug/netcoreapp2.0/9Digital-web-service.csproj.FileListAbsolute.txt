@@ -1,0 +1,11 @@
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\bin\Debug\netcoreapp2.0\9Digital-web-service.deps.json
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\bin\Debug\netcoreapp2.0\9Digital-web-service.runtimeconfig.json
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\bin\Debug\netcoreapp2.0\9Digital-web-service.runtimeconfig.dev.json
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\bin\Debug\netcoreapp2.0\9Digital-web-service.dll
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\bin\Debug\netcoreapp2.0\9Digital-web-service.pdb
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\obj\Debug\netcoreapp2.0\9Digital-web-service.csprojResolveAssemblyReference.cache
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\obj\Debug\netcoreapp2.0\9Digital-web-service.csproj.CoreCompileInputs.cache
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\obj\Debug\netcoreapp2.0\9Digital-web-service.AssemblyInfoInputs.cache
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\obj\Debug\netcoreapp2.0\9Digital-web-service.AssemblyInfo.cs
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\obj\Debug\netcoreapp2.0\9Digital-web-service.dll
+C:\Users\tobez\source\repos\9Digital-web-service\9Digital-web-service\obj\Debug\netcoreapp2.0\9Digital-web-service.pdb

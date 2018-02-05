@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9Digital-web-service", "9Digital-web-service\9Digital-web-service.csproj", "{95C6F0E4-25A6-45BA-955C-3CCE75B4D8E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServiceTest", "WebServiceTest\WebServiceTest.csproj", "{EA3AADF4-4223-4703-8A6C-ECF24A2C518B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C6F0E4-25A6-45BA-955C-3CCE75B4D8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C6F0E4-25A6-45BA-955C-3CCE75B4D8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C6F0E4-25A6-45BA-955C-3CCE75B4D8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C6F0E4-25A6-45BA-955C-3CCE75B4D8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA3AADF4-4223-4703-8A6C-ECF24A2C518B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3AADF4-4223-4703-8A6C-ECF24A2C518B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3AADF4-4223-4703-8A6C-ECF24A2C518B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3AADF4-4223-4703-8A6C-ECF24A2C518B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB622AF-B3F3-427C-B8EB-0FEE8537B736}
+	EndGlobalSection
+EndGlobal

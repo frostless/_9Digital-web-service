@@ -1,0 +1,16 @@
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\WebServiceTest.deps.json
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\WebServiceTest.runtimeconfig.json
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\WebServiceTest.runtimeconfig.dev.json
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\WebServiceTest.dll
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\WebServiceTest.pdb
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\9Digital-web-service.dll
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\bin\Debug\netcoreapp2.0\9Digital-web-service.pdb
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\obj\Debug\netcoreapp2.0\WebServiceTest.csprojResolveAssemblyReference.cache
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\obj\Debug\netcoreapp2.0\WebServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\obj\Debug\netcoreapp2.0\WebServiceTest.AssemblyInfoInputs.cache
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\obj\Debug\netcoreapp2.0\WebServiceTest.AssemblyInfo.cs
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\obj\Debug\netcoreapp2.0\WebServiceTest.dll
+C:\Users\tobez\source\repos\9Digital-web-service\WebServiceTest\obj\Debug\netcoreapp2.0\WebServiceTest.pdb
