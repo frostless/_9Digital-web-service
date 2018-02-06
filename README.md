@@ -1,2 +1,2 @@
 # _9Digital-web-service
-Web Service that filter incoming Json
+Web Service that filters incoming Json
